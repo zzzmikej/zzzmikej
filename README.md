@@ -23,14 +23,14 @@
 ## 💻 Tecnologias e Ferramentas
 
 ### Back-End
-<div align="center" style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
+<div align="left" style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java"/>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python"/>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="SpringBoot" title="SpringBoot"/>
 </div>
 
 ### Database
-<div align="center" style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
+<div align="left" style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL"/>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="SQL Server"/>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB"/>
@@ -39,14 +39,14 @@
 </div>
 
 ### DevOps
-<div align="center" style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
+<div align="left" style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" title="Azure"/>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker"/>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" title="Terraform"/>
 </div>
 
 ### Front-End
-<div align="center" style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
+<div align="left" style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3"/>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5"/>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" title="JavaScript"/>
@@ -55,14 +55,14 @@
 </div>
 
 ### FullStack
-<div align="center" style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
+<div align="left" style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="AngularJS" title="AngularJS"/>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js"/>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js"/>
 </div>
 
 ### Ferramentas
-<div align="center" style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
+<div align="left" style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" title="Eclipse"/>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma"/>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git"/>
