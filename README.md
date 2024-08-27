@@ -14,7 +14,7 @@
 <div align="center" display="inline-block">
   <a href="https://github.com/zzzmikej">
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=zzzmikej&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img height="50wh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzzmikej&layout=compact&langs_count=7&theme=react" />
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzzmikej&layout=compact&langs_count=7&theme=react" />
 </div>
 <br>
   
@@ -23,16 +23,31 @@
 ## 💻 Tecnologias e Ferramentas
 
 <div align="center" style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
+  <!-- Front-End -->
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5"/>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3"/>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" title="JavaScript"/>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React"/>
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" title="Swift"/>
+  
+  <!-- Back-End -->
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java"/>
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="SpringBoot" title="SpringBoot"/>
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python"/>
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP"/>
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C"/>
+  
+  <!-- Database -->
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" title="SQL"/>
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="SQL Server"/>
+  
+  <!-- Tools -->
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" title="VSCode"/>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git"/>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma"/>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" title="Photoshop"/>
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" title="Illustrator"/>
 </div>
-  
 <br>
 
 ## 📩 Contatos
