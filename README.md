@@ -42,7 +42,7 @@
 
 ### Database
 <div align="center" style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" title="SQL"/>
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsql/microsoftsql-original.svg" alt="SQL" title="SQL"/>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="SQL Server"/>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL"/>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="Mongo Db" title="Mongo Db">
