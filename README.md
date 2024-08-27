@@ -21,7 +21,7 @@
 <br>
 
 ## 💻 Tecnologias e Ferramentas
-
+<div align="center" style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
 ### Front-End
 <div align="center" style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5"/>
@@ -54,7 +54,7 @@
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" title="Photoshop"/>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" title="Illustrator"/>
 </div>
-
+</div>
 <br>
 
 ## 📩 Contatos
