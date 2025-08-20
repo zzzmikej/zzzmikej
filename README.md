@@ -43,6 +43,8 @@
 ## 🌟 Projetos em Destaque  
 - [🔗 IA Offline](https://github.com/Technologies-SAB/IA) — Desenvolver um chatbot de IA 100% local, que funcione diretamente via CPU em um notebook pessoal, sem qualquer dependência de modelos externos (como GPT, Gemini, Claude etc.). O bot será treinado e utilizado exclusivamente com base na documentação interna da empresa Hospitality Holding Investments, Lda., especializada no setor Hoteleiro.
 
-- [🔗 Projeto Nimbus](https://github.com/sptech-nimbus) — 
+- [🔗 Projeto Nimbus](https://github.com/sptech-nimbus) — Sistema de gerenciamento completo para times de basquete,
+incluindo recursos de registro e gerenciamento de jogadores, agendamento de jogos e
+treinos, análise de desempenho e interação entre usuários.
 
 ---
