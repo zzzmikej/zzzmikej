@@ -21,8 +21,8 @@
 
 ## 📊 Minhas Estatísticas no GitHub
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zzzmikej&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zzzmikej&include_all_commits=false&show_icons=true&theme=bear&count_private=true&bg_color=000&border_color=30A3DC&icon_color=30A3DC&text_color=FFF)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zzzmikej&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 ✨ _Sempre aberto a colaborações, novos desafios e conexões no mundo da tecnologia!_
 
