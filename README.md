@@ -30,8 +30,6 @@
 
 # 🛠️ Tecnologias & Ferramentas  
 
-## 🛠️ Tecnologias & Ferramentas  
-
 ### 🔹 Back-End
 <p align="left">
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
