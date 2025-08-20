@@ -1,11 +1,12 @@
-## Oii! Eu sou o Michael Henrique 👋
+## Olá! Eu sou o Michael Silva 👋
 
 ### Sobre Mim
 
-- 💻 **Desenvolvedor Full-Stack** com paixão por tecnologia e inovação.
-- 🔭 Atualmente, estou me aprofundando em **desenvolvimento full-stack** e explorando novas tecnologias.
-- 🌱 Estudante de **Análise e Desenvolvimento de Sistemas** na São Paulo Tech School.
-- 🎓 Formado em **Técnico em Informática** pela ETEC Paulistano.
+- 💻 **Desenvolvedor Full-Stack** com foco em **Back-End** e **DevOps**.  
+- 🔭 Atualmente me aprofundando em **Java** e **.NET**, explorando arquiteturas modernas e boas práticas de software.  
+- ☁️ Interesse especial em **Cloud (Azure & AWS)**, automação e integrações com CI/CD.  
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** (SPTech) e **Técnico em Informática** (ETEC Paulistano).  
+- 🏅 Apaixonado por **resolver problemas complexos** e aprender continuamente novas tecnologias.
 
 <br>
 
@@ -13,73 +14,57 @@
 
 <div align="center" display="inline-block">
   <a href="https://github.com/zzzmikej">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=zzzmikej&include_all_commits=false&show_icons=true&theme=react&count_private=true"/>
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzzmikej&layout=compact&langs_count=7&theme=react" />
+    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=zzzmikej&include_all_commits=false&show_icons=true&theme=react&count_private=true"/>
+    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzzmikej&layout=compact&langs_count=7&theme=react" />
 </div>
 <br>
   
 <br>
 
-## 💻 Tecnologias e Ferramentas
+## 🛠️ Tecnologias & Ferramentas  
 
-### Back-End
-<div align="left" style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java"/>
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python"/>
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="SpringBoot" title="SpringBoot"/>
-</div>
+### Back-End  
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg "Java")  
+![.Net](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg ".Net")  
+![SpringBoot](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg "SpringBoot")  
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg "Python")  
 
-### Database
-<div align="left" style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL"/>
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="SQL Server"/>
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB"/>
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/>
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite"/>
-</div>
+### Database  
+![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg "MySQL")  
+![SQL Server](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg "SQL Server")  
+![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg "MongoDB")  
 
-### DevOps
-<div align="left" style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" title="Azure"/>
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker"/>
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" title="Terraform"/>
-</div>
+### DevOps & Cloud  
+![Azure](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg "Azure")  
+![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg "AWS")  
+![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg "Docker")  
+![Terraform](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg "Terraform")  
 
-### Front-End
-<div align="left" style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3"/>
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5"/>
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" title="JavaScript"/>
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React"/>
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite.js" title="Vite.js"/>
-</div>
+### Front-End  
+![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg "HTML")  
+![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg "CSS")  
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg "JavaScript")  
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg "React")  
+![Vue](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg "Vue.js")  
 
-### FullStack
-<div align="left" style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="AngularJS" title="AngularJS"/>
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js"/>
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js"/>
-</div>
+### Ferramentas  
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg "Git")  
+![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg "VSCode")  
+![IntelliJ](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg "IntelliJ")  
+![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg "Figma")  
+![Insomnia](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg "Insomnia")  
 
-### Ferramentas
-<div align="left" style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" title="Eclipse"/>
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma"/>
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git"/>
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" alt="Insomnia" title="Insomnia"/>
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" title="IntelliJ"/>
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" title="Photoshop"/>
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" alt="Salesforce" title="Salesforce"/>
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" title="Slack"/>
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="Swagger" title="Swagger"/>
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" title="VSCode"/>
-</div>
+---
 
-<br>
-
-## 📩 Contatos
+## 📩 Contato  
 
 <div align="center">
-  <a href="https://www.instagram.com/zzz.mike" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" title="Instagram"/></a>
-  <a href="https://www.linkedin.com/in/michaelhenriqueteixeira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn"/></a> 
+  <a href="https://www.linkedin.com/in/michaelhenriqueteixeira/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a> 
 </div>
+
+
+---
+
+✨ _Sempre aberto a colaborações, novos desafios e conexões no mundo da tecnologia!_
