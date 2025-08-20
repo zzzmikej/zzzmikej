@@ -10,61 +10,71 @@
 
 <br>
 
+## 📩 Contatos
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:michaelhenrique0022@icloud.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zzzmikej)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaeltsilva/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511955777482)
+
+---
+
 ## 📊 Minhas Estatísticas no GitHub
 
-<div align="center" display="inline-block">
-  <a href="https://github.com/zzzmikej">
-    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=zzzmikej&include_all_commits=false&show_icons=true&theme=react&count_private=true"/>
-    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzzmikej&layout=compact&langs_count=7&theme=react" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zzzmikej&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zzzmikej&include_all_commits=false&show_icons=true&theme=bear&count_private=true&bg_color=000&border_color=30A3DC&icon_color=30A3DC&text_color=FFF)
+
+✨ _Sempre aberto a colaborações, novos desafios e conexões no mundo da tecnologia!_
+
 <br>
-  
-<br>
+
+# 🛠️ Tecnologias & Ferramentas  
 
 ## 🛠️ Tecnologias & Ferramentas  
 
-### Back-End  
-![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg "Java")  
-![.Net](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg ".Net")  
-![SpringBoot](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg "SpringBoot")  
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg "Python")  
+### 🔹 Back-End
+<p align="left">
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" title=".NET"/>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="SpringBoot"/>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
+</p>
 
-### Database  
-![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg "MySQL")  
-![SQL Server](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg "SQL Server")  
-![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg "MongoDB")  
+### 🔹 Database
+<p align="left">
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server"/>
+</p>
 
-### DevOps & Cloud  
-![Azure](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg "Azure")  
-![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg "AWS")  
-![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg "Docker")  
-![Terraform](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg "Terraform")  
+### 🔹 DevOps
+<p align="left">
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure"/>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="Terraform"/>
+</p>
 
-### Front-End  
-![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg "HTML")  
-![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg "CSS")  
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg "JavaScript")  
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg "React")  
-![Vue](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg "Vue.js")  
+### 🔹 Front-End
+<p align="left">
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>
+</p>
 
-### Ferramentas  
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg "Git")  
-![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg "VSCode")  
-![IntelliJ](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg "IntelliJ")  
-![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg "Figma")  
-![Insomnia](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg "Insomnia")  
-
----
-
-## 📩 Contato  
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/michaelhenriqueteixeira/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a> 
-</div>
-
+### 🔹 Ferramentas
+<p align="left">
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" title="Swagger"/>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" title="Insomnia"/>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode"/>
+</p>
 
 ---
 
-✨ _Sempre aberto a colaborações, novos desafios e conexões no mundo da tecnologia!_
+## 🌟 Projetos em Destaque  
+- [🔗 IA Offline](https://github.com/Technologies-SAB/IA) — Desenvolver um chatbot de IA 100% local, que funcione diretamente via CPU em um notebook pessoal, sem qualquer dependência de modelos externos (como GPT, Gemini, Claude etc.). O bot será treinado e utilizado exclusivamente com base na documentação interna da empresa Hospitality Holding Investments, Lda., especializada no setor Hoteleiro.
+
+- [🔗 Projeto Nimbus](https://github.com/sptech-nimbus) — 
+
+---
